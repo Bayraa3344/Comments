@@ -3,6 +3,16 @@ body {
   height: 100vh;
 }
 
+.btn-2 {
+  width: 150px;
+  height: 60px;
+  background: slateblue;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
 h1 {
   text-align: center;
   color: coral;

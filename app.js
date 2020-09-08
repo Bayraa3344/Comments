@@ -50,4 +50,8 @@ function change(e) {
   }
 }
 
+function goBack() {
+  window.history.back();
+}
+
 // imageDIV.style.backgroundImage = `url('${images[currentImg]}')`;
